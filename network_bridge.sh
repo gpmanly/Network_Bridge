@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 # Set up transparent bridge eth1->eth0
 #  - eth0 (built-in): attach to TT DSL router
